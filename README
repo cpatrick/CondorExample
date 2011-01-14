@@ -2,6 +2,7 @@ This repository is to serve as a very basic condor example. I use it for
 testing a new high-throughput computing environment. To try it:
 
 cmake . # I know in-source, but look at echo30.c, it's insignificant
+make # or whatever build system you generated for
 condor_submit_dag try.dag
 
 That's it. Use condor_status and condor_q to make sure everything is running
