@@ -1,0 +1,9 @@
+CMakeCache.txt
+CMakeFiles
+Makefile
+*.log
+*.out
+echo30
+*.sub
+*.cmake
+*.err
