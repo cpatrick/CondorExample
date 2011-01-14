@@ -1,0 +1,4 @@
+JOB A a.condor
+JOB B b.condor
+JOB C c.condor
+PARENT A CHILD B C

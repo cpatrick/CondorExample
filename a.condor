@@ -1,0 +1,7 @@
+universe   = vanilla
+executable = echo30
+log        = a.log
+error      = a.err
+output     = a.out
+arguments  = "TaskA"
+queue

@@ -1,0 +1,7 @@
+universe   = vanilla
+executable = echo30
+log        = c.log
+error      = c.err
+output     = c.out
+arguments  = "TaskC"
+queue
